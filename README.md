@@ -42,3 +42,41 @@ The dataset contains academic records of 100 students, including:
 * Power Query
 * DAX (Data Analysis Expressions)
 * Microsoft Excel (Data Preparation)
+
+# Data Cleaning Process
+
+The following data preparation steps were completed using Power Query:
+* Removed duplicate records.
+* Checked and handled missing values.
+* Corrected inconsistent text formatting.
+* Standardized categorical values.
+* Verified data types.
+* Renamed columns for consistency.
+* Removed unnecessary fields.
+* Validated score ranges.
+
+# Data Modeling
+A simple relational model was implemented with:
+
+# Fact Table
+* Student Performance
+* Dimension Tables
+* Student
+* Gender
+* Ethnicity
+* Test Preparation
+* Parental Education
+
+This structure improves report performance and simplifies analysis.
+
+# DAX Measures
+
+The dashboard includes several calculated measures, including:
+* Student Count
+* Average Math Score
+* Average Reading Score
+* Average Writing Score
+* Maximum Math Score
+* Average Score %
+* Top Student Score
+* Performance Ranking
