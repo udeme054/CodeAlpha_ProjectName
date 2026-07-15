@@ -16,7 +16,6 @@ The dashboard was designed to:
 
 # Business Problem
 Educational institutions often face challenges in answering important questions such as:
-
 1. What is the overall academic performance of students?
 2. Does completing a test preparation course improve student performance?
 3. How does parental education influence student achievement?
@@ -25,3 +24,14 @@ Educational institutions often face challenges in answering important questions 
 6. Is there a performance gap between male and female students?
 
 This dashboard provides a centralized solution for answering these questions through interactive visualizations.
+
+# Dataset
+The dataset contains academic records of 100 students, including:
+1.Student ID
+2. Gender
+3. Ethnicity
+4. Parental Level of Education
+5. Test Preparation Status
+6. Math Score
+7. Reading Score
+8. Writing Score
