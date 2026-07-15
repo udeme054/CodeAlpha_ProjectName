@@ -27,7 +27,8 @@ This dashboard provides a centralized solution for answering these questions thr
 
 # Dataset
 The dataset contains academic records of 100 students, including:
-1.Student ID
+
+1. Student ID
 2. Gender
 3. Ethnicity
 4. Parental Level of Education
