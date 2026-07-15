@@ -209,6 +209,7 @@ KPI	Value
 
 # Photo Gallery
 Workforce Profile Dashboard
+![Alt text](
 
 
 # 📁 Repository Structure
