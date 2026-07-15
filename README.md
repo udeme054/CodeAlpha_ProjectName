@@ -155,19 +155,19 @@ Based on the dashboard insights, the following recommendations are proposed:
 9. Published the final Power BI report.
 
 # Repository Structure
-Student-Performance-Analysis-Dashboard/
+* Student-Performance-Analysis-Dashboard/
 │
-├── Dataset/
+*├── Dataset/
 │   └── Student_Performance_Dataset.xlsx
 │
-├── Dashboard/
+*├── Dashboard/
 │   └── Student Performance Analysis Dashboard.pbix
 │
-├── Images/
+*├── Images/
 │   └── Student Performance Analysis Dashboard.jpg
 │
-├── README.md
-└── LICENSE
+*├── README.md
+*└── LICENSE
 
 # Future Improvements
 * Integrate attendance and classroom participation data.
