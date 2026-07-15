@@ -233,6 +233,6 @@ Udeme Jackson
 Aspiring Data Analyst | Power BI Developer | SQL | Excel | DAX | Power Query
 
 # 🤝 Connect With Me
-LinkedIn: www.linkedin.com/in/udeme-jackson-0a0887144
-GitHub: https://github.com/udeme054/CodeAlpha_ProjectName.git
-Email: udemejackson2016@gmail.com
+* LinkedIn: www.linkedin.com/in/udeme-jackson-0a0887144
+* GitHub: https://github.com/udeme054/CodeAlpha_ProjectName.git
+* Email: udemejackson2016@gmail.com
