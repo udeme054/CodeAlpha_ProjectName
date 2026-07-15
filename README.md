@@ -6,36 +6,36 @@ This project transforms raw educational data into meaningful visual insights tha
 # Project Objectives
 
 The dashboard was designed to:
-1. Monitor overall student academic performance.
-2. Compare scores across Mathematics, Reading, and Writing.
-3. Analyze performance by gender and ethnicity.
-4. Evaluate the impact of parental education on student achievement.
-5. Measure the effect of test preparation courses on academic performance.
-6. Identify high-performing students.
-7. Support educators with actionable insights for improving student outcomes.
+* Monitor overall student academic performance.
+* Compare scores across Mathematics, Reading, and Writing.
+* Analyze performance by gender and ethnicity.
+* Evaluate the impact of parental education on student achievement.
+* Measure the effect of test preparation courses on academic performance.
+* Identify high-performing students.
+* Support educators with actionable insights for improving student outcomes.
 
 # Business Problem
 Educational institutions often face challenges in answering important questions such as:
-1. What is the overall academic performance of students?
-2. Does completing a test preparation course improve student performance?
-3. How does parental education influence student achievement?
-4. Are there significant differences in performance across ethnic groups?
-5. Which students consistently perform at the highest level?
-6. Is there a performance gap between male and female students?
+* What is the overall academic performance of students?
+* Does completing a test preparation course improve student performance?
+* How does parental education influence student achievement?
+* Are there significant differences in performance across ethnic groups?
+* Which students consistently perform at the highest level?
+* Is there a performance gap between male and female students?
 
 This dashboard provides a centralized solution for answering these questions through interactive visualizations.
 
 # Dataset
 The dataset contains academic records of 100 students, including:
 
-1. Student ID
-2. Gender
-3. Ethnicity
-4. Parental Level of Education
-5. Test Preparation Status
-6. Math Score
-7. Reading Score
-8. Writing Score
+* Student ID
+* Gender
+* Ethnicity
+* Parental Level of Education
+* Test Preparation Status
+* Math Score
+* Reading Score
+* Writing Score
 
 # Tools Used
 * Microsoft Power BI
