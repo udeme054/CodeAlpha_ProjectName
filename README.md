@@ -36,3 +36,9 @@ The dataset contains academic records of 100 students, including:
 6. Math Score
 7. Reading Score
 8. Writing Score
+
+# Tools Used
+* Microsoft Power BI
+* Power Query
+* DAX (Data Analysis Expressions)
+* Microsoft Excel (Data Preparation)
