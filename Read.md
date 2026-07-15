@@ -180,7 +180,7 @@ KPI	Value
 # Performance Dashboard
 * Average productivity score is 73.95/100.
 * Average employee satisfaction is 74.50/100.
-* Performance rating averages 3.91/5.
+* Performance rating averages is 3.91/5.
 * Majority of employees fall within the Good performance category.
 * Poor Career Growth category contains the largest employee population, highlighting opportunities for development.
 * Entry-level employees receive the highest total bonus allocation.
