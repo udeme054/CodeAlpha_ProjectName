@@ -208,13 +208,13 @@ KPI	Value
 10. Published the final Power BI report.
 
 # Photo Gallery
-Workforce Profile Dashboard
+# Workforce Profile Dashboard
 ![Alt text](https://github.com/udeme054/CodeAlpha_ProjectName/blob/aa5e6de2e88e583d4a2e938ee6a1a1c904155328/Task%202%20HR%20ANALYTICS%20FOR%20CODEALPHA/Workforce%20Profile%20Dashboard.jpg)
 
-Performance Dashboard
+# Performance Dashboard
 ![Alt text](https://github.com/udeme054/CodeAlpha_ProjectName/blob/11d732ade2ef580faea4b5bacbc1dfd917490668/Task%202%20HR%20ANALYTICS%20FOR%20CODEALPHA/Performance%20Dashboard.jpg)
 
-Tooltip
+# Tooltip
 ![Alt text](https://github.com/udeme054/CodeAlpha_ProjectName/blob/6c3d99617f627ab7b01496a127d6576557a02628/Task%202%20HR%20ANALYTICS%20FOR%20CODEALPHA/Tooltip.jpg)
 
 # 📁 Repository Structure
