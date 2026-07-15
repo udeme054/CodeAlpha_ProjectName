@@ -217,6 +217,9 @@ KPI	Value
 # Tooltip
 ![Alt text](https://github.com/udeme054/CodeAlpha_ProjectName/blob/6c3d99617f627ab7b01496a127d6576557a02628/Task%202%20HR%20ANALYTICS%20FOR%20CODEALPHA/Tooltip.jpg)
 
+# Tooltip2
+![Alt text](https://github.com/udeme054/CodeAlpha_ProjectName/blob/a8317be7e3cdadf4388dd07cc53b270ddd641959/Task%202%20HR%20ANALYTICS%20FOR%20CODEALPHA/Tooltip2.jpg)
+
 # 📁 Repository Structure
 Student-Performance-Analysis-Dashboard/
 │
