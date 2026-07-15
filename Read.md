@@ -207,6 +207,10 @@ KPI	Value
 9. Validated KPIs and visualizations.
 10. Published the final Power BI report.
 
+# Photo Gallery
+Workforce Profile Dashboard
+
+
 # 📁 Repository Structure
 Student-Performance-Analysis-Dashboard/
 │
