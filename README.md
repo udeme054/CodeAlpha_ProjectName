@@ -153,7 +153,10 @@ Based on the dashboard insights, the following recommendations are proposed:
 7. Added charts, KPIs, slicers, and drill-down functionality.
 8. Validated calculations and dashboard visuals.
 9. Published the final Power BI report.
-
+    
+# Photo Gallery
+Student Performance Analysis Dashboard
+![Alt text](https://github.com/udeme054/CodeAlpha_ProjectName/blob/1b5c4fad7643cb16f570f28cba5be23b2b73c50e/TASK%204%20STUDENT%20PERFORMANCE%20ANALYSIS/Student%20Performance%20Analysis%20Dashboard.jpg) 
 # Repository Structure
 Student-Performance-Analysis-Dashboard/
 │
