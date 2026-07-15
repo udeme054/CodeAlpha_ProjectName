@@ -155,19 +155,19 @@ Based on the dashboard insights, the following recommendations are proposed:
 9. Published the final Power BI report.
 
 # Repository Structure
-* Student-Performance-Analysis-Dashboard/
+Student-Performance-Analysis-Dashboard/
 │
-*├── Dataset/
+├── Dataset/
 │   └── Student_Performance_Dataset.xlsx
 │
-*├── Dashboard/
+├── Dashboard/
 │   └── Student Performance Analysis Dashboard.pbix
 │
-*├── Images/
+├── Images/
 │   └── Student Performance Analysis Dashboard.jpg
 │
-*├── README.md
-*└── LICENSE
+├── README.md
+└── LICENSE
 
 # Future Improvements
 * Integrate attendance and classroom participation data.
@@ -181,6 +181,6 @@ Udeme Jackson
 Aspiring Data Analyst | Power BI Developer | SQL | Excel | DAX | Power Query
 
 # Connect With Me
-LinkedIn: Add your LinkedIn profile URL
-GitHub: Add your GitHub profile URL
-Email: Add your professional email address
+* LinkedIn: www.linkedin.com/in/udeme-jackson-0a0887144
+* GitHub: Add your GitHub profile URL
+* Email: udemejackson2016@gmail.com
