@@ -209,7 +209,7 @@ KPI	Value
 
 # Photo Gallery
 Workforce Profile Dashboard
-![Alt text](
+![Alt text](https://github.com/udeme054/CodeAlpha_ProjectName/blob/aa5e6de2e88e583d4a2e938ee6a1a1c904155328/Task%202%20HR%20ANALYTICS%20FOR%20CODEALPHA/Workforce%20Profile%20Dashboard.jpg)
 
 
 # 📁 Repository Structure
